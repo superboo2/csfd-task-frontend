@@ -22,4 +22,4 @@ pnpm run dev
 ![alt text](src/assets/screenshots/screenshot3.png)
 ![alt text](src/assets/screenshots/screenshot4.png)
 ![alt text](src/assets/screenshots/screenshot5.png)
-![alt text](src/assets/screenshots/screenshot6.png)# csfd-task-frontend
+![alt text](src/assets/screenshots/screenshot6.png)

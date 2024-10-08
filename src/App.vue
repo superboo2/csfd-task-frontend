@@ -101,7 +101,7 @@ export default {
             }
         },
         async fetchDataByFilter() {
-            this.filter.name = this.search
+            this.filter.search = this.search
             await this.fetchFilms()
             await this.fetchActors()
             this.filter = {}
